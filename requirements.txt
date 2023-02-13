@@ -1,0 +1,5 @@
+boto3
+bs4==0.0.1
+streamlit==1.1.*
+requests==2.28.2
+beautifulsoup4==4.11.1
