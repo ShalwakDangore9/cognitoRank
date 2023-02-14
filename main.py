@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
 
 st.title('CognitoRank - :orange[Text Summarizer]')
 
+
 st.text_input("Access Key", key="key",
               help="Please find the access key on the last page of the presentation in google drive")
 accessKey = st.session_state.key
