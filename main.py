@@ -6,7 +6,7 @@ from argparse import ArgumentParser
 import requests
 from bs4 import BeautifulSoup
 
-st.title('CognitoRank - :orange[Text Summarizer]')
+st.title('CognitoRank - Text Summarizer')
 
 
 st.text_input("Access Key", key="key",
